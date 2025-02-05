@@ -1,0 +1,5 @@
+*.swp
+*.swo
+*.undo
+*.log
+node_modules/
